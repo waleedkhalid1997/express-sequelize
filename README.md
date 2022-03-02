@@ -164,7 +164,7 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
 
 
 <p align="center">
-  <img src="docs/images/logo-small.png" width="100" />
+  <img src="https://raw.githubusercontent.com/sequelize/sequelize/main/docs/images/logo-small.png" width="100" />
   <h1 align="center">Sequelize</h1>
 </p>
 
